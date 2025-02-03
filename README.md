@@ -1,14 +1,16 @@
-# AikeArmarUnSetup
-Aike (my name) + Armar un setup.
-It makes sense on spanish xD.
+# AikeArmarUnSetup  
+Aike (my name) + "Armar un setup".  
+It makes sense in Spanish xD.  
 
-Personal project non active coding rn, but the purpose is get all the prices of most popular pages on argentina about setup things. From desktops, chairs, to pc components.
+This is a personal project, not actively coding right now, but the goal is to get all the prices from the most popular Argentinian websites for setup-related products. From desktops and chairs to PC components.  
 
-I don't have any DB of the stock of pages, so its just a scrapper right now.  must put youtself to what page you want to scrap. It's too raw rn. 
+I don't have a database of the stock from these websites, so it's just a scraper for now. You have to manually specify which page you want to scrape. It's too raw at the moment.  
 
-Scraped pages rn:
-CompraGamer
-HardGamers
-710tech
+## Scraped pages so far:  
+- **CompraGamer**  
+- **HardGamers**  
+- **710tech**  
 
-# npm init playwright@latest
+## Setup:  
+```sh
+npm init playwright@latest
